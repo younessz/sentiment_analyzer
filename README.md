@@ -25,3 +25,7 @@ Hutto, C.J. & Gilbert, E.E. (2014). VADER: A Parsimonious Rule-based Model for S
 https://www.nltk.org/howto/sentiment.html
 
 https://github.com/cjhutto/vaderSentiment
+
+# Project status
+
+Completed
