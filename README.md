@@ -26,6 +26,6 @@ https://www.nltk.org/howto/sentiment.html
 
 https://github.com/cjhutto/vaderSentiment
 
-# Project status
+# Project status
 
 Completed
